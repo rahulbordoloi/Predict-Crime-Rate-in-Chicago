@@ -11,7 +11,7 @@ Datasource: https://www.kaggle.com/currie32/crimes-in-chicago
 
 To Predict : Future Crime over a certain period along with its trends and bounds.
 
-About Facebook Prophet,
+About Facebook Prophet,                  
 x> Prophet is open source software released by Facebook’s Core Data Science team.                
 y> Prophet is a procedure for forecasting time series data based on an additive model where non-linear trends are fit with yearly, weekly, and daily seasonality, plus holiday effects.                      
 z> Prophet works best with time series that have strong seasonal effects and several seasons of historical data.          
