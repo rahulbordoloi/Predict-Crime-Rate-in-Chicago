@@ -18,4 +18,3 @@ z> Prophet works best with time series that have strong seasonal effects and sev
 
 If you're working on a Local Machine,
 Install the dependencies from your terminal with >> "pip install -r requirements.txt"               
-To Predict : Price of Avocado over a certain period along with its trends and bounds.
